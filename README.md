@@ -1,4 +1,4 @@
-# Gemini OCR Chrome Extension
+# Browser OCR Tool
 
 A chrome extension that allows users to select any area on a webpage using a marquee selection tool and extract text from it using Google's Gemini Image Recognition .
 

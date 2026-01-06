@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Gemini Marquee OCR",
+  "name": "Browser OCR Tool",
   "version": "1.0",
-  "description": "Select any area on a webpage to extract text using Gemini Image Intelligence.",
+  "description": "Extract text from any area of a webpage using Gemini's intelligent vision.",
   "permissions": [
     "activeTab",
     "storage",
